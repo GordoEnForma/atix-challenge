@@ -48,3 +48,8 @@ Tener instalado:
    `npm start`
 3. En caso no se abra el enlace, ingresar en el navegador\
    `localhost:3000`
+# Video de las funcionalidades principales
+
+https://github.com/GordoEnForma/atix-challenge/assets/49422627/e0dbde80-8b64-449a-86cb-0af67561f4ab
+
+
