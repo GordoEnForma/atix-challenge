@@ -1,0 +1,8 @@
+# backend
+atix-back/node_modules
+atix-back/mongo
+atix-back/.env
+
+# frontend
+atix-front/node-modules
+atix-front/.env

@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  todosdb:
+    image: mongo:5
+    restart: always
+    ports:
+      - 27017:27017
+    environment:
+      MONGODB_DATABASE: todosdb
+    volumes:
+      - ./mongo:/data/db
